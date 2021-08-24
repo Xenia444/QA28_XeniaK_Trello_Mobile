@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.xenia.mobile.tests.LaunchApp" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-24T13:21:13" hostname="localhost.localdomain" time="0.002">
+  <properties/>
+  <testcase name="testLaunchApp" classname="com.xenia.mobile.tests.LaunchApp" time="0.002"/>
+  <system-out><![CDATA[16:21:13.239 [Test worker] INFO com.xenia.mobile.tests.TestBase - start testtestLaunchApp
+16:21:13.243 [Test worker] INFO com.xenia.mobile.tests.TestBase - Trello app launched
+16:21:13.245 [Test worker] INFO com.xenia.mobile.tests.TestBase - stop testtestLaunchApp
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
